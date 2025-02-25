@@ -15,7 +15,6 @@
   width: 100%;
 }
 
-<<<<<<< HEAD
 footer {
   align-items: center;
   display: flex;
@@ -24,7 +23,6 @@ footer {
   color: white;
   height: 150px;
 }
-=======
 #contact {
   width: 50%;
   margin: 0 auto 50px auto;
@@ -58,4 +56,3 @@ footer {
   background: linear-gradient(to bottom right, #493a40, #2c424d);
 }
   
->>>>>>> af5730007d572ac849480acc09892b72d0b70430
